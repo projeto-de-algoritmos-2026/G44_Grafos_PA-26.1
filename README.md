@@ -6,7 +6,7 @@ Conteúdo da Disciplina: Grafos<br>
 |Matrícula | Aluno |
 | -- | -- |
 | 221007985  |  Diassis Bezerra Nascimento |
-| 222024158  |  Bruno Henryque Grangeiro Caetano |
+| 222024158  |  bruno Henryque Grangeiro Caetano |
 
 # ConectaBR — Capitais Brasileiras
 
