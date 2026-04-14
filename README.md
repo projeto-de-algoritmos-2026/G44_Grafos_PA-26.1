@@ -147,3 +147,5 @@ As rotas e distâncias foram baseadas nas principais rodovias federais brasileir
 
 - O grafo não considera peso nas arestas para o BFS (trata todas as arestas como custo 1). Para encontrar o caminho de **menor distância em km**, seria necessário usar o algoritmo de **Dijkstra**.
 - Algumas capitais da região Norte (Macapá, Boa Vista) têm conectividade limitada por falta de rodovias pavimentadas — isso é reflexo da realidade.
+
+## Link da Gravação: https://www.youtube.com/watch?v=bwZKA7HKgWI
